@@ -11,7 +11,7 @@ The Exploring the Bitcoin Cryptocurrency Market project aims to analyze and visu
 <img width="494" alt="ss2" src="https://github.com/KadamPriyanka11/CryptoCurrency-Analysis/assets/115123187/fe6505d3-0b7f-4ef2-9dc7-a7b2c9243cd0">
 
 
-#To further examine the volatility, the project selects and plots the 24-hour and 7 days percentage change, utilizing the available data.
+#To further examine the volatility, the project selects and plots the 24-hour and 7 days percentage change.
 <img width="309" alt="ss3" src="https://github.com/KadamPriyanka11/CryptoCurrency-Analysis/assets/115123187/b71953a3-85f3-41dd-9b5e-8c9852c5d853">
 
 
